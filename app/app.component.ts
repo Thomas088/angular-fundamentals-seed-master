@@ -112,7 +112,9 @@ import { Component } from '@angular/core'
 
     <!-- safe navigation operator => ? -->
 
-    <passenger-dashboard></passenger-dashboard>
+    <!-- <passenger-dashboard></passenger-dashboard> -->
+
+    <passenger-viewer></passenger-viewer>
 
   </div>
 
